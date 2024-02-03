@@ -1,10 +1,11 @@
 1. Projects Title
    
-  Complete Explaoratory Data analysis on Bank Churn Dataset.
+    Complete Explaoratory Data analysis on Bank Churn Dataset.
 
 3. Projects Description
    
-   This dataset consists of data of the bank customer in 165034 rows and 14 columns which include details their demographic details,theiracoount deatils like bankbalane, estimated salary, is active member of the bank or not.
+   This dataset consists of data of the bank customer in 165034 rows and 14 columns which include details their demographic details,theiracoount deatils like bankbalane, estimated 
+    salary, is active member of the bank or not.
 
    Your role as Data Scientist is to find:
    using customer data from a bank to build a predictive model for the likely churn clients.
